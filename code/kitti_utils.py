@@ -1,4 +1,3 @@
-# This import registers the 3D projection, but is otherwise unused.
 import argparse
 
 import matplotlib.image as mpimg
