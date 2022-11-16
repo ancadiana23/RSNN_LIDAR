@@ -12,7 +12,3 @@ process. The KITTI 3D Object Detection Benchmark is processed into a labeled obj
  ## Run model
   * The mail module trains, tests and saves the module;
   * Use command line arguments to give the right data and result paths, as well as to control the model hyper-papameters.
- 
-## License
-## Disclaimer
-This project is not an official Google project. It is not supported by Google and Google specifically disclaims all warranties as to its quality, merchantability, or fitness for a particular purpose.
